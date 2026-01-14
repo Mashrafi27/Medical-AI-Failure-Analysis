@@ -1,4 +1,4 @@
-# CV8502 — Failure Analysis of Medical AI Systems
+# Failure Analysis for Medical Image AI Models
 
 A runnable baseline for **multi-label medical image classification** and failure analysis on chest X-rays. It includes:
 
